@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "drums",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "drums"
+  }
+}

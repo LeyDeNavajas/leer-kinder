@@ -61,6 +61,7 @@
 
       //un onclick para todos
       function touchSound(e) {
+        console.info("click");
         const key = e.currentTarget;
         const keyCode = key.dataset.key;
         const audio = document.querySelector(`audio[data-key="${keyCode}"]`);
